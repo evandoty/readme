@@ -16,7 +16,7 @@ Please feel free to contribute to this page by opening a merge request (I'm stil
 
 
 ## My personal motto
-*“Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.” —Dr. Suess
+### “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.” —Dr. Suess
 
 
 ## How you can help me
